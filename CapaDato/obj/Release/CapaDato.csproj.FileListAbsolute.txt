@@ -1,0 +1,6 @@
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaDato\bin\Release\CapaDato.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaDato\bin\Release\CapaDato.pdb
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.AssemblyReference.cache
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.CoreCompileInputs.cache
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaDato\obj\Release\CapaDato.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaDato\obj\Release\CapaDato.pdb

@@ -1,0 +1,18 @@
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.pdb

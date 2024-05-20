@@ -1,0 +1,12 @@
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaDato\obj\Debug\CapaDato.pdb
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaDato\bin\Debug\CapaDato.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaDato\bin\Debug\CapaDato.pdb
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaDato\obj\Debug\CapaDato.csproj.AssemblyReference.cache
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaDato\obj\Debug\CapaDato.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaDato\obj\Debug\CapaDato.pdb

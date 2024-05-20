@@ -1,0 +1,11 @@
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\bin\Release\CapaNegocio.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\bin\Release\CapaNegocio.pdb
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\bin\Release\CapaDato.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\bin\Release\CapaEntidad.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\bin\Release\CapaDato.pdb
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\bin\Release\CapaEntidad.pdb
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\obj\Release\CapaNego.81B9D119.Up2Date
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.dll
+D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.pdb

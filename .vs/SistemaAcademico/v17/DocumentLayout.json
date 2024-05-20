@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|d:\\ingenieria web - 9no semestre\\sistemaacademicosomee\\sistemaacademico\\capapresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D692C4-133B-4192-9CCE-BDB69591460E}|CapaServicio\\CapaServicio.csproj|d:\\ingenieria web - 9no semestre\\sistemaacademicosomee\\sistemaacademico\\capaservicio\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9D692C4-133B-4192-9CCE-BDB69591460E}|CapaServicio\\CapaServicio.csproj|solutionrelative:capaservicio\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|d:\\ingenieria web - 9no semestre\\sistemaacademicosomee\\sistemaacademico\\capapresentacion\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|d:\\ingenieria web - 9no semestre\\sistemaacademicosomee\\sistemaacademico\\capapresentacion\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|d:\\ingenieria web - 9no semestre\\sistemaacademicosomee\\sistemaacademico\\capanegocio\\interface\\idocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\interface\\idocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|d:\\ingenieria web - 9no semestre\\sistemaacademicosomee\\sistemaacademico\\capanegocio\\docentebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\docentebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaPresentacion\\Web.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Web.config",
+              "ToolTip": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaPresentacion\\Web.config",
+              "RelativeToolTip": "CapaPresentacion\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAADzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T00:15:45.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaServicio\\Web.config",
+              "RelativeDocumentMoniker": "CapaServicio\\Web.config",
+              "ToolTip": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaServicio\\Web.config",
+              "RelativeToolTip": "CapaServicio\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T00:15:40.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocenteBL.cs",
+              "DocumentMoniker": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaNegocio\\DocenteBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\DocenteBL.cs",
+              "ToolTip": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaNegocio\\DocenteBL.cs",
+              "RelativeToolTip": "CapaNegocio\\DocenteBL.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:05:59.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDocente.cs",
+              "DocumentMoniker": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaNegocio\\Interface\\IDocente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Interface\\IDocente.cs",
+              "ToolTip": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaNegocio\\Interface\\IDocente.cs",
+              "RelativeToolTip": "CapaNegocio\\Interface\\IDocente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:38:03.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDocente.aspx",
+              "DocumentMoniker": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDocente.aspx",
+              "ToolTip": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmDocente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T18:15:26.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDocente.aspx.cs",
+              "DocumentMoniker": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDocente.aspx.cs",
+              "ToolTip": "D:\\Ingenieria web - 9no semestre\\SistemaAcademicoSomee\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmDocente.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwBoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:08:27.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
