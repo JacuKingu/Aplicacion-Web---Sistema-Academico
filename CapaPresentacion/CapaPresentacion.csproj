@@ -115,8 +115,12 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="frmAdmin.aspx" />
     <Content Include="frmAlumno.aspx" />
     <Content Include="frmDocente.aspx" />
+    <Content Include="frmLogin.aspx" />
+    <Content Include="frmSistemaAlumno.aspx" />
+    <Content Include="frmSistemaDocente.aspx" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -185,6 +189,13 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="frmAdmin.aspx.cs">
+      <DependentUpon>frmAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmAdmin.aspx.designer.cs">
+      <DependentUpon>frmAdmin.aspx</DependentUpon>
+    </Compile>
     <Compile Include="frmAlumno.aspx.cs">
       <DependentUpon>frmAlumno.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -198,6 +209,27 @@
     </Compile>
     <Compile Include="frmDocente.aspx.designer.cs">
       <DependentUpon>frmDocente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.aspx.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmLogin.aspx.designer.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmSistemaAlumno.aspx.cs">
+      <DependentUpon>frmSistemaAlumno.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmSistemaAlumno.aspx.designer.cs">
+      <DependentUpon>frmSistemaAlumno.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmSistemaDocente.aspx.cs">
+      <DependentUpon>frmSistemaDocente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmSistemaDocente.aspx.designer.cs">
+      <DependentUpon>frmSistemaDocente.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

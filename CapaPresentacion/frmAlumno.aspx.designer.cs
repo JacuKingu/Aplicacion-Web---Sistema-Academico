@@ -40,6 +40,15 @@ namespace CapaPresentacion {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvCodAlumno;
         
         /// <summary>
+        /// Control rfvCodAlumnoBuscar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvCodAlumnoBuscar;
+        
+        /// <summary>
         /// Control txtAPaterno.
         /// </summary>
         /// <remarks>
@@ -56,6 +65,15 @@ namespace CapaPresentacion {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvAPaterno;
+        
+        /// <summary>
+        /// Control rfvAPaternoActualizar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvAPaternoActualizar;
         
         /// <summary>
         /// Control txtAMaterno.
@@ -76,6 +94,15 @@ namespace CapaPresentacion {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvAMaterno;
         
         /// <summary>
+        /// Control rfvAMaternoActualizar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvAMaternoActualizar;
+        
+        /// <summary>
         /// Control txtNombres.
         /// </summary>
         /// <remarks>
@@ -92,6 +119,15 @@ namespace CapaPresentacion {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvNombres;
+        
+        /// <summary>
+        /// Control rfvNombresActualizar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvNombresActualizar;
         
         /// <summary>
         /// Control txtCodUsuario.
@@ -112,6 +148,15 @@ namespace CapaPresentacion {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvCodUsuario;
         
         /// <summary>
+        /// Control rfvCodUsuarioActaulizar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvCodUsuarioActaulizar;
+        
+        /// <summary>
         /// Control txtContrasena.
         /// </summary>
         /// <remarks>
@@ -130,6 +175,15 @@ namespace CapaPresentacion {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvPassword;
         
         /// <summary>
+        /// Control rfvPasswordActualizar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvPasswordActualizar;
+        
+        /// <summary>
         /// Control txtConfirmarContrasena.
         /// </summary>
         /// <remarks>
@@ -139,15 +193,6 @@ namespace CapaPresentacion {
         protected global::System.Web.UI.WebControls.TextBox txtConfirmarContrasena;
         
         /// <summary>
-        /// Control CompareValidator1.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.CompareValidator CompareValidator1;
-        
-        /// <summary>
         /// Control rfvConfPassword.
         /// </summary>
         /// <remarks>
@@ -155,6 +200,24 @@ namespace CapaPresentacion {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvConfPassword;
+        
+        /// <summary>
+        /// Control rfvConfPasswordActualizar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvConfPasswordActualizar;
+        
+        /// <summary>
+        /// Control cvPassword.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CompareValidator cvPassword;
         
         /// <summary>
         /// Control txtCodEscuela.
@@ -173,6 +236,15 @@ namespace CapaPresentacion {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvCodEscuela;
+        
+        /// <summary>
+        /// Control rfvCodEscuelaActualizar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvCodEscuelaActualizar;
         
         /// <summary>
         /// Control btnAgregar.
@@ -220,6 +292,15 @@ namespace CapaPresentacion {
         protected global::System.Web.UI.WebControls.ValidationSummary vsAgregar;
         
         /// <summary>
+        /// Control vsBuscar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ValidationSummary vsBuscar;
+        
+        /// <summary>
         /// Control vsEliminar.
         /// </summary>
         /// <remarks>
@@ -227,6 +308,15 @@ namespace CapaPresentacion {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ValidationSummary vsEliminar;
+        
+        /// <summary>
+        /// Control ValidationSummary1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ValidationSummary ValidationSummary1;
         
         /// <summary>
         /// Control gvAlumno.

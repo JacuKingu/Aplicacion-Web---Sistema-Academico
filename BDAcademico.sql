@@ -120,6 +120,7 @@ go
 
 
 -- insercion de usuarios alumnos
+insert into TUsuario values ('admin',ENCRYPTBYPASSPHRASE('miFraseDeContrase�a', '1234'))
 insert into TUsuario values ('cuellar@hotmail.com',ENCRYPTBYPASSPHRASE('miFraseDeContrase�a', '1234'))
 insert into TUsuario values ('velasquez@hotmail.com',ENCRYPTBYPASSPHRASE('miFraseDeContrase�a', '1234'))
 insert into TUsuario values ('miranda@hotmail.com',ENCRYPTBYPASSPHRASE('miFraseDeContrase�a', '1234'))
@@ -209,7 +210,7 @@ insert into TAsignatura values  ('S21','Practicas II','S20')
 go
 
 -- insercion de usuarios docentes
-insert into TUsuario values('admin',ENCRYPTBYPASSPHRASE('miFraseDeContrase�a', '1234'))
+insert into TUsuario values('jcalcazar@hotmail.com',ENCRYPTBYPASSPHRASE('miFraseDeContrase�a', '1234'))
 insert into TUsuario values('mnina@hotmail.com',ENCRYPTBYPASSPHRASE('miFraseDeContrase�a', '1234'))
 insert into TUsuario values('jarredondo@hotmail.com',ENCRYPTBYPASSPHRASE('miFraseDeContrase�a', '1234'))
 insert into TUsuario values('kcosio@hotmail.com',ENCRYPTBYPASSPHRASE('miFraseDeContrase�a', '1234'))
@@ -220,7 +221,7 @@ insert into TUsuario values('apalomino@hotmail.com',ENCRYPTBYPASSPHRASE('miFrase
 go
 
 --insercion docente
-insert into TDocente values  ('D01','Alcazar','Bustamante', 'Julio Cesar','admin')
+insert into TDocente values  ('D01','Alcazar','Bustamante', 'Julio Cesar','jcalcazar@hotmail.com')
 insert into TDocente values  ('D02','Nina', 'Perez', 'Miguel','mnina@hotmail.com')
 insert into TDocente values  ('D03','Arredondo', 'Altamirano', 'Jesus','jarredondo@hotmail.com')
 insert into TDocente values  ('D04','Cosio', 'Valle', 'Kelma','kcosio@hotmail.com')

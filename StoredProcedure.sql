@@ -167,6 +167,8 @@ begin
 			select CodError = 0, Mensaje = 'Docente'
 		else if exists (select CodUsuario from TAlumno where CodUsuario = @CodUsuario)
 			select CodError = 0, Mensaje = 'Alumno'
+		else if exists (select CodUsuario from TUsuario where CodUsuario = 'admin')
+			select CodError = 0, Mensaje = 'Admin'
 		else 
 			select CodError = 1, Mensaje = 'Error: Usuario no tiene privilegio de docente ni alumno, consulte al administrador'
 	end
