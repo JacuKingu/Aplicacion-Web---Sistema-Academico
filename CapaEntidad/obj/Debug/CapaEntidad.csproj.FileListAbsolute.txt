@@ -16,3 +16,9 @@ D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaEnti
 D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.dll
 D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaEntidad\obj\Debug\CapaEntidad.pdb

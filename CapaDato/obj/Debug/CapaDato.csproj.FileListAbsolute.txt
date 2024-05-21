@@ -10,3 +10,9 @@ D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaDato\obj\
 D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
 D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaDato\obj\Debug\CapaDato.dll
 D:\Ingenieria web - 9no semestre\SistemaAcademico\SistemaAcademico\CapaDato\obj\Debug\CapaDato.pdb
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaDato\bin\Debug\CapaDato.dll
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaDato\bin\Debug\CapaDato.pdb
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaDato\obj\Debug\CapaDato.dll
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaDato\obj\Debug\CapaDato.pdb

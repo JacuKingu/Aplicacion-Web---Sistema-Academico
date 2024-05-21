@@ -31,3 +31,14 @@ D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNego
 D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
 D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\Ingenieria web - 9no semestre\SistemaAcademicoSomee\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\bin\Debug\CapaDato.dll
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\bin\Debug\CapaDato.pdb
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\proyect\Aplicacion-Web---Sistema-Academico\CapaNegocio\obj\Debug\CapaNegocio.pdb
